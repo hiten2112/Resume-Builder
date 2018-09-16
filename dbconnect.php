@@ -6,7 +6,7 @@
 
  define('DBHOST', 'localhost');
  define('DBUSER', 'root');
- define('DBPASS', 'science2012');
+ define('DBPASS', '*******');
  define('DBNAME', 'dbtest');
 
  $conn = mysqli_connect(DBHOST,DBUSER,DBPASS,DBNAME);
